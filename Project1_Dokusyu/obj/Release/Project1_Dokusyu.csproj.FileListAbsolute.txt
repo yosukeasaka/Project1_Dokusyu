@@ -1,0 +1,5 @@
+/Users/youka/Projects/Project1_Dokusyu/Project1_Dokusyu/bin/Release/Project1_Dokusyu.exe
+/Users/youka/Projects/Project1_Dokusyu/Project1_Dokusyu/bin/Release/Smart.Text.Japanese.dll
+/Users/youka/Projects/Project1_Dokusyu/Project1_Dokusyu/obj/Release/Project1_Dokusyu.csproj.CoreCompileInputs.cache
+/Users/youka/Projects/Project1_Dokusyu/Project1_Dokusyu/obj/Release/Project1_Dokusyu.csproj.CopyComplete
+/Users/youka/Projects/Project1_Dokusyu/Project1_Dokusyu/obj/Release/Project1_Dokusyu.exe

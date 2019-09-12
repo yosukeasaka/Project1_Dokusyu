@@ -1,0 +1,8 @@
+/Users/youka/Projects/Project1_Dokusyu/Project1_Dokusyu/obj/Debug/Project1_Dokusyu.csprojAssemblyReference.cache
+/Users/youka/Projects/Project1_Dokusyu/Project1_Dokusyu/obj/Debug/Project1_Dokusyu.csproj.CoreCompileInputs.cache
+/Users/youka/Projects/Project1_Dokusyu/Project1_Dokusyu/bin/Debug/Project1_Dokusyu.exe
+/Users/youka/Projects/Project1_Dokusyu/Project1_Dokusyu/bin/Debug/Project1_Dokusyu.pdb
+/Users/youka/Projects/Project1_Dokusyu/Project1_Dokusyu/obj/Debug/Project1_Dokusyu.exe
+/Users/youka/Projects/Project1_Dokusyu/Project1_Dokusyu/obj/Debug/Project1_Dokusyu.pdb
+/Users/youka/Projects/Project1_Dokusyu/Project1_Dokusyu/bin/Debug/Smart.Text.Japanese.dll
+/Users/youka/Projects/Project1_Dokusyu/Project1_Dokusyu/obj/Debug/Project1_Dokusyu.csproj.CopyComplete
