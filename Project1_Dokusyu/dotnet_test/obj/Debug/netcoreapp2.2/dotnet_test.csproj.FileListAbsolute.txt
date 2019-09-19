@@ -1,0 +1,11 @@
+C:\Users\tanko\ProjectC\dotnet_test\bin\Debug\netcoreapp2.2\dotnet_test.deps.json
+C:\Users\tanko\ProjectC\dotnet_test\bin\Debug\netcoreapp2.2\dotnet_test.runtimeconfig.json
+C:\Users\tanko\ProjectC\dotnet_test\bin\Debug\netcoreapp2.2\dotnet_test.runtimeconfig.dev.json
+C:\Users\tanko\ProjectC\dotnet_test\bin\Debug\netcoreapp2.2\dotnet_test.dll
+C:\Users\tanko\ProjectC\dotnet_test\bin\Debug\netcoreapp2.2\dotnet_test.pdb
+C:\Users\tanko\ProjectC\dotnet_test\obj\Debug\netcoreapp2.2\dotnet_test.csprojAssemblyReference.cache
+C:\Users\tanko\ProjectC\dotnet_test\obj\Debug\netcoreapp2.2\dotnet_test.csproj.CoreCompileInputs.cache
+C:\Users\tanko\ProjectC\dotnet_test\obj\Debug\netcoreapp2.2\dotnet_test.AssemblyInfoInputs.cache
+C:\Users\tanko\ProjectC\dotnet_test\obj\Debug\netcoreapp2.2\dotnet_test.AssemblyInfo.cs
+C:\Users\tanko\ProjectC\dotnet_test\obj\Debug\netcoreapp2.2\dotnet_test.dll
+C:\Users\tanko\ProjectC\dotnet_test\obj\Debug\netcoreapp2.2\dotnet_test.pdb
