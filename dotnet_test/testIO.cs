@@ -1,4 +1,4 @@
-using System;
+/*using System;
 using System.IO;
 
 class ReadChars{
@@ -8,4 +8,4 @@ class ReadChars{
         str = Console.In.ReadLine();
         Console.WriteLine("You enterd: " + str);
     }
-}
+}*/
